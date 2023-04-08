@@ -295,6 +295,7 @@ footer {
     padding-top: 3%; 
     height: 400px;
     background-color: rgb(80, 223, 189); 
+    overflow: auto;
 }
 
 @media screen and (max-width: 576px) {
