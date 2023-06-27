@@ -1,4 +1,4 @@
-<h1>HTML and CSS Projects</h1>
+<h1>Starsha McCrary's Portfolio</h1>
 
 <h4>Projects</h4>
 <p>&#8226; Space Station Site</p>
