@@ -15,7 +15,7 @@ https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/511342
 
 
 <h3>Academy Cinemas</h3>
-<p>This web page is also an example of my html and css expertise, I created a website for movie goers to check out what's playing at their local theater. The video features me navigating to the location and history of the theater. There is also a Now Playing feature that has working links that will take you to a synopsis of the the movie of your choosing. The last section is an opportunity for the user to join th movie club by entering their email.</p>
+<p>This web page is also an example of my html and css expertise, I created a website for movie goers to check out what's playing at their local theater. The video features me navigating to information that talks about the location and history of the theater. There is also a Now Playing feature that has working links that will take you to a synopsis of the the movie of your choosing as well as the showtimes. The last section is an opportunity for the user to join th movie club by entering their email.</p>
 
 
 https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/2f88e5ea-1077-4149-90e4-7552c7863344
