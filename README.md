@@ -11,5 +11,10 @@
 <h3>Academy Cinemas</h3>
 <p>This page is an example of me using html and css to create a movie theater website.</p>
 
+
+https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/2f88e5ea-1077-4149-90e4-7552c7863344
+
+
+
 <h3>Portfolio Site</h3>
 <p>This project is an example of me using html and css to create a professional portfolio, in it I showcase my background and that I am skilled in html, css and github as well as other languages.</p>
