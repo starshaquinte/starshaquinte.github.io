@@ -6,7 +6,7 @@
 <p>&#8226; Portfolio Site</P>
 
 <h3>Space Station</h3>
-<p>This page is an example of me using html and css to create a website for space travel.</p>
+<p>This page is an example of me using html and css to create a website for space travel. The video features me navigating the webpage and using the funtional buttons for the gallery and reservation form.</p>
 
 
 
