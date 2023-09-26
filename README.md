@@ -24,7 +24,7 @@ https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/2f88e5
 
 
 <h3>Portfolio Site</h3>
-<p>This project is an example of me using html and css to create a professional portfolio, in it I showcase my background and that I am skilled in html, css and github as well as other languages.</p>
+<p>I created a professional portfolio, in it I showcase my background, experience and more.  The video features me navigating the web page, I embedded a technology video in the background. I also added a slideshow section to display a photo of myself, programming languages I'm skilled in as well as a fuctioning contact form. I also used this opportunity to display my skills in javascript with the contact form that will not submit until the user has entered data in all fields.</p>
 
 
 https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/0c7b473d-27e1-48d0-baaf-2c3d76ae15ce
