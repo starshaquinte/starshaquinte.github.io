@@ -16,5 +16,11 @@ https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/2f88e5
 
 
 
+
 <h3>Portfolio Site</h3>
 <p>This project is an example of me using html and css to create a professional portfolio, in it I showcase my background and that I am skilled in html, css and github as well as other languages.</p>
+
+
+https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/0c7b473d-27e1-48d0-baaf-2c3d76ae15ce
+
+
