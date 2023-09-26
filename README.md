@@ -6,7 +6,7 @@
 <p>&#8226; Portfolio Site</P>
 
 <h3>Space Station</h3>
-<p>This page is an example of me using html and css to create a website for space travel. The video features me navigating the webpage and using the funtional buttons for the gallery and reservation form.</p>
+<p>This web page is an example of me using html and css to create a website for space travel. The video features me navigating the webpage and using the funtional buttons for the gallery and reservation form.</p>
 
 
 
@@ -15,7 +15,7 @@ https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/511342
 
 
 <h3>Academy Cinemas</h3>
-<p>This page is an example of me using html and css to create a movie theater website.</p>
+<p>This web page is also an example of my html and css expertise, I created a website for movie goers to check out what's playing at their local theater. It  </p>
 
 
 https://github.com/starshaquinte/starshaquinte.github.io/assets/126527633/2f88e5ea-1077-4149-90e4-7552c7863344
